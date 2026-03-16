@@ -52,17 +52,17 @@ export let tartarugasVoamVerdadeOuNao = false
 export let noveDivididoPorTres = 3
 
 /* Questão 06 */
-export let papagaiosFalamVerdadeOuNao
+export let papagaiosFalamVerdadeOuNao = true
 
 /* Questão 07 */
-export let umaFuncao
+export let umaFuncao = function (){}
 
 /* Questão 08 */
-export let cemDivididoPorCinco
+export let cemDivididoPorCinco = 20
 
 /* Questão 09 */
 
-export let nomeDaSuaEscola
+export let nomeDaSuaEscola = "ETE Cícero Dias"
 /* Questão 10 */
 
 export let quinzeMaisCinco
