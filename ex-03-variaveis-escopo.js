@@ -177,3 +177,4 @@ export const resposta09 = undefined
 
 /* Questão 10: giorno enxerga mista?*/
 export const resposta10 = undefined
+.
