@@ -98,7 +98,7 @@ export let cincoPowerRangers = true
 export let puroAco = true
 
 /* Questão 11 */
-export const cemReaisEmBarrasdeOuro = true
+export const cemReaisEmBarrasDeOuro = true
 
 /* Questão 12 */
 export const paginaInicial = true
