@@ -37,16 +37,16 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita
+export let musicaFavorita = much test
 
 /* Questão 02 */
-export let objetoQualquer
+export let objetoQualquer = testes
 
 /* Questão 03 */
-export let valorIndefinido
+export let valorIndefinido = testando 123
 
 /* Questão 04 */
-export let tartarugasVoamVerdadeOuNao
+export let tartarugasVoamVerdadeOuNao = testes my gahsh
 
 /* Questão 05 */
 export let noveDivididoPorTres
