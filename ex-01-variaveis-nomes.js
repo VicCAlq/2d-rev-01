@@ -71,7 +71,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 export let funçãoImportante = true
 
 /* Questão 02 */
-export class clientes_do_salão {}
+export class Clientes_do_salão {}
 
 /* Questão 03 */
 export let próximaEtapa = true
@@ -80,7 +80,7 @@ export let próximaEtapa = true
 export const data_e_horario = true
 
 /* Questão 05 */
-export const vídeoAula = true
+export const videoAula = true
 
 /* Questão 06 */
 export let arquivo_principal = true
