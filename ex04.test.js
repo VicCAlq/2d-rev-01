@@ -44,7 +44,7 @@ vi.describe("Exercício 04", () => {
       vi.expect( ex04[name]).toBeTypeOf("number"), "Nome da variável incorreto"
     })
     vi.it(`ex04 - Correta - Questão ${i+1}`, () => {
-      vi.expect( ex04[name] === varValues[i]), 
+      vi.expect(ex04[name]).toEqual(varValues[i]), 
       `Valor errado. O valor esperado era ${varValues[i]}, mas o enviado foi ${ex04[name]}`
     })
   })

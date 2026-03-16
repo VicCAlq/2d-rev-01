@@ -20,7 +20,7 @@ vi.describe("Exercício 03", () => {
       `Nome da variável incorreto`
     })
     vi.it(`ex03 - Correta - Questão ${i+1}`, () => {
-      vi.expect( ex03[name] === varValues[i]),
+      vi.expect(ex03[name]).toEqual(varValues[i]),
       `Valor errado. O valor esperado era ${varValues[i]}, mas o enviado foi ${ex03[name]}`
     })
   })
