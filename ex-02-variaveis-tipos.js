@@ -37,16 +37,16 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita
+export let musicaFavorita = "ragatanga "
 
 /* Questão 02 */
-export let objetoQualquer
+export let objetoQualquer  = {nome: "helena"}                    
 
 /* Questão 03 */
-export let valorIndefinido
+export let valorIndefinido = undefined
 
 /* Questão 04 */
-export let tartarugasVoamVerdadeOuNao
+export let tartarugasVoamVerdadeOuNao=false 
 
 /* Questão 05 */
 export let noveDivididoPorTres
