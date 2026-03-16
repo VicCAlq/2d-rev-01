@@ -68,31 +68,31 @@ export let nomeDaSuaEscola = "ETE Cícero Dias"
 export let quinzeMaisCinco = 20;
 /* Questão 11 */
 
-export let valorFalso
+export let valorFalso = false
 /* Questão 12 */
 
-export let dezMaisQuatro
+export let dezMaisQuatro = 14;
 
 /* Questão 13 */
-export let nomeDoSeuEstado
+export let nomeDoSeuEstado = "Pernambuco"
 
 /* Questão 14 */
-export let artistaFavorito
+export let artistaFavorito = "Priscilla Senna"
 
 /* Questão 15 */
-export let seteVezesSete
+export let seteVezesSete = 49;
 
 /* Questão 16 */
-export let umMaiorQueDoisVerdadeOuNao
+export let umMaiorQueDoisVerdadeOuNao = false
 
 /* Questão 17 */
-export let comidaFavorita
+export let comidaFavorita = "Pizza"
 
 /* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao
+export let oCeuEhAzulVerdadeOuNao = true
 
 /* Questão 19 */
-export let objetoNulo
+export let objetoNulo = null
 
 /* Questão 20 */
-export let valorVerdadeiro
+export let valorVerdadeiro = true
