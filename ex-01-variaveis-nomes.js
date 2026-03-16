@@ -68,7 +68,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let fucaoImportante = true
+export let funcaoImportante = true
 
 /* Questão 02 */
 export class ClientesDoSalao {}
@@ -95,7 +95,7 @@ export let quatroRodas = true
 export let cincoPowerRangers = true
 
 /* Questão 10 */
-export let puroAço = true
+export let puroAco = true
 
 /* Questão 11 */
 export const cemReaisEmBarrasDeOuro = true

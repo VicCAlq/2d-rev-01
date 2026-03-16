@@ -55,7 +55,7 @@ export let noveDivididoPorTres = 3
 export let papagaiosFalamVerdadeOuNao = true
 
 /* Questão 07 */
-export let umaFuncao = 
+export let umaFuncao =
 
 /* Questão 08 */
 export let cemDivididoPorCinco = 25
