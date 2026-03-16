@@ -37,38 +37,38 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita
+export let musicaFavorita = "Calculista"
 
 /* Questão 02 */
-export let objetoQualquer
+export let objetoQualquer = null
 
 /* Questão 03 */
-export let valorIndefinido
+export let valorIndefinido = undefined
 
 /* Questão 04 */
-export let tartarugasVoamVerdadeOuNao
+export let tartarugasVoamVerdadeOuNao = false
 
 /* Questão 05 */
-export let noveDivididoPorTres
+export let noveDivididoPorTres = 9 / 3
 
 /* Questão 06 */
-export let papagaiosFalamVerdadeOuNao
+export let papagaiosFalamVerdadeOuNao = true
 
 /* Questão 07 */
-export let umaFuncao
+export let umaFuncao = function (){}
 
 /* Questão 08 */
-export let cemDivididoPorCinco
+export let cemDivididoPorCinco = 100 / 5
 
 /* Questão 09 */
 
-export let nomeDaSuaEscola
+export let nomeDaSuaEscola = "Cícero Dias"
 /* Questão 10 */
 
-export let quinzeMaisCinco
+export let quinzeMaisCinco = 15 + 5
 /* Questão 11 */
 
-export let valorFalso
+export let valorFalso = 15 < 3
 /* Questão 12 */
 
 export let dezMaisQuatro
