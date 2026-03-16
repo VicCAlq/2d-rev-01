@@ -171,10 +171,10 @@ export const resposta06 = false
 export const resposta07 = false
 
 /* Questão 08: hermes enxerga smokey?*/
-export const resposta08 = undefined
+export const resposta08 = false
 
 /* Questão 09: lisaLisa enxerga giorno?*/
-export const resposta09 = undefined
+export const resposta09 = false
 
 /* Questão 10: giorno enxerga mista?*/
-export const resposta10 = undefined
+export const resposta10 = true
