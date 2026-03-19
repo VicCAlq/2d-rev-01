@@ -2,7 +2,7 @@
 Assunto 05 - Operadores Lógicos
 
 Para realizarmos verificações lógicas em JavaScript, utilizamos os "operadores lógicos".
-Antes de vermos quais são, eelembre abaixo as definições de "operador" e "operando":
+Antes de vermos quais são, relembre abaixo as definições de "operador" e "operando":
 
 1. "Operador": São os símbolos que realizam uma operação (no caso de operadores
                aritméticos) ou uma comparação (no caso de operadores lógicos).

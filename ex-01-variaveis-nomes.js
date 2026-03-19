@@ -104,26 +104,26 @@ export const cemReaisEmBarrasDeOuro = true
 export const paginaInicial = true
 
 /* Questão 13 */
-export let _5patinhosForamPassear = true
+export let cincoPatinhosForamPassear = true
 
 /* Questão 14 */
-export class $1besouro {}
+export class UmBesouro {}
 
 /* Questão 15 */
-export class Roupas_Juninas {}
+export class RoupasJuninas {}
 
 /* Questão 16 */
-export let cálculosMatemáticos = true
+export let calculosMatematicos = true
 
 /* Questão 17 */
-export const camaMesa_E_Banho = true
+export const camaMesaEBanho = true
 
 /* Questão 18 */
-export let preçoDOproduto = true
+export let precoDoProduto = true
 
 /* Questão 19 */
-export const código_fonte = true
+export const codigoFonte = true
 
 /* Questão 20 */
-export class Cabo_frio {}
+export class CaboFrio {}
 
