@@ -58,10 +58,10 @@ export const sessentaEQuatro = 2 ** (2 * 3)
 export const vinteETres = 18 + (33 % 7)
 
 /* Questão 08 */
-export const dezenove = 38 ?? 2
+export const dezenove = 38 / 2
 
 /* Questão 09 */
-export const centoETrinta = (41 ?? 3) ?? (21 ?? 3)
+export const centoETrinta = (41 * 3) + (21 - 3)
 
 /* Questão 10 */
 export const quinze = 30 ?? 3 ?? 5
