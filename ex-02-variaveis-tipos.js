@@ -95,4 +95,4 @@ export let oCeuEhAzulVerdadeOuNao = true
 export let objetoNulo = null
 
 /* Questão 20 */
-export let valorVerdadeiro = 2 < 4s
+export let valorVerdadeiro = 2 < 4
