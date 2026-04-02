@@ -37,10 +37,10 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita ="Legado"
+export let musicaFavorita = "Rage"
 
 /* Questão 02 */
-export let objetoQualquer = {nome: imael}
+export let objetoQualquer = [1,2,3]
 
 /* Questão 03 */
 export let valorIndefinido = undefined
@@ -52,49 +52,47 @@ export let tartarugasVoamVerdadeOuNao = false
 export let noveDivididoPorTres = 3
 
 /* Questão 06 */
-export let papagaiosFalamVerdadeOuNao = false
+export let papagaiosFalamVerdadeOuNao = true
 
 /* Questão 07 */
-export let umaFuncao = function (){
-
-}
+export let umaFuncao
 
 /* Questão 08 */
-export let cemDivididoPorCinco = 1 
+export let cemDivididoPorCinco = 25
 
 /* Questão 09 */
 
-export let nomeDaSuaEscola = "Cicero dias"
+export let nomeDaSuaEscola
 /* Questão 10 */
 
 export let quinzeMaisCinco = 20
 /* Questão 11 */
 
-export let valorFalso = 0 > 1
+export let valorFalso
 /* Questão 12 */
 
 export let dezMaisQuatro = 14
 
 /* Questão 13 */
-export let nomeDoSeuEstado = Pernambuco
+export let nomeDoSeuEstado
 
 /* Questão 14 */
-export let artistaFavorito = "Michael B jordan"
+export let artistaFavorito
 
 /* Questão 15 */
-export let seteVezesSete = 49
+export let seteVezesSete
 
 /* Questão 16 */
-export let umMaiorQueDoisVerdadeOuNao = false
+export let umMaiorQueDoisVerdadeOuNao
 
 /* Questão 17 */
-export let comidaFavorita = empadao
+export let comidaFavorita
 
 /* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao = true
+export let oCeuEhAzulVerdadeOuNao
 
 /* Questão 19 */
-export let objetoNulo = null
+export let objetoNulo
 
 /* Questão 20 */
-export let valorVerdadeiro = 1=1
+export let valorVerdadeiro
