@@ -37,41 +37,41 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita
+export let musicaFavorita = "Alma"
 
 /* Questão 02 */
-export let objetoQualquer
+export let objetoQualquer = [1,2,3]
 
 /* Questão 03 */
-export let valorIndefinido
+export let valorIndefinido = undefined
 
 /* Questão 04 */
-export let tartarugasVoamVerdadeOuNao
+export let tartarugasVoamVerdadeOuNao = false
 
 /* Questão 05 */
-export let noveDivididoPorTres
+export let noveDivididoPorTres = 3
 
 /* Questão 06 */
-export let papagaiosFalamVerdadeOuNao
+export let papagaiosFalamVerdadeOuNao = true
 
 /* Questão 07 */
 export let umaFuncao
 
 /* Questão 08 */
-export let cemDivididoPorCinco
+export let cemDivididoPorCinco = 25
 
 /* Questão 09 */
 
 export let nomeDaSuaEscola
 /* Questão 10 */
 
-export let quinzeMaisCinco
+export let quinzeMaisCinco = 20
 /* Questão 11 */
 
 export let valorFalso
 /* Questão 12 */
 
-export let dezMaisQuatro
+export let dezMaisQuatro = 14
 
 /* Questão 13 */
 export let nomeDoSeuEstado

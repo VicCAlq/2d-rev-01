@@ -1,180 +1,97 @@
 /*
-Assunto 03 - Escopo de variáveis
+Assunto 04 - Operadores Aritméticos
 
-Quaisquer valores nomeados que forem criados em um programa JavaScript existem em um 
-determinado "escopo". Escopo é o termo que utulizamos para determinar a região 
-do código onde um valor existe.
+Para entendermos operadores, precisamos primeiro entender os "tipos"
+de operadores:
 
-Exemplos de valores nomeados são: variáveis, funções, objetos, classes, etc. Qualquer 
-coisa no código para o qual você dê um nome a sua escolha.
+1. "Operador": São os símbolos que realizam uma operação (no caso de operadores
+               aritméticos) ou uma comparação (no caso de operadores lógicos).
+               Os símbolos + - * / % e ** são os principais operadores aritméticos,
+               enquanto que os símbolos == === != !== > < >= <= são Operadores
+               lógicos. O sinal de = (sem repetição) também é um operador, chamado
+               de operador de atribuição (ele armazena um valor em uma variável).
+2. "Operando": É o valor no qual um "operador" atua. Pode ser dos tipos:
+    - "Unário": Quando se trada de apenas um valor (exemplo: -2 aplica o operador de 
+               "subtração" ao operando "2") 
+    - "Binário": Quando o operando possui dois valores (exemplo: 4 * 8 aplica o operador
+                 de "multiplicação" aos operandos "4" e "8")
 
-Coisas como "if", "else", "switch", "return" não são valores, são palavras da sintaxe
-do JavaScript, e não coisas nomeadas por você.
+E quais são nossos operadores?
+1. Adição (+): Retorna o resultado da adição entre dois números
+2. Subtração (-): Pode tanto subtrair um número de outro, quanto converter um número 
+                  positivo para negativo (-2) quanto um número negativo para positivo (-(-2))
+3. Multiplicação (*): Retorna o resultado da multiplicação dois números
+4. Divisão (/): Retorna o resultado da divisão dois números
+5. Módulo ou Restante (%): Retorna o restante do resultado da divisão entre dois 
+                           números (exemplo: 5 % 2 retorna 1)
+6. Exponenciação (**): Retorna o resultado da operação de elevar o primeiro número
+                       a potência do segundo (2 ** 3 retorna 8)
 
-Escopos são criados utilizando "chaves": { }
-A chave de abertura "{" inicia o escopo
-A chave de fechamento "}" encerra o escopo
+----------------------------------------------------------------------------------
 
-Se um valor for criada dentro de um escopo, ele existe apenas até a chave 
-de fechamento do escopo ao qual ele pertence. Exemplo:
-{
-  let bode = "Adalberto" <- "bode" é  criado aqui
-} <- "bode" deixou de existir aqui 
+Nas questões abaixo, substitua os "??" pela operação aritimética
+necessária para que o resultado da equação seja igual ao número
+nomeado na variável.
 
-Tentar utilizar um valor fora de escopo resulta em erro:
-{
-  let bode = "Adalberto" <- "bode" é  criado aqui
-  console.log(bode) <- Isso funciona normal
-} <- "bode" deixou de existir aqui 
-console.log(bode) <- Isso vai dar erro
-
-Escopos podem ter escopos internos. Não há um limite para isso.
-Escopos internos podem acessar qualquer valor dos escopos externos a si.
-Escopos externos NÃO podem acessar valores de escopos internos.
-"Sempre podemos olhar de dentro pra fora, mas nunca de fora pra dentro".
-Exemplo:
-{
-  const frutaFavorita = "Abacaxi"
-  {
-    const comidaFavorita = "Torta de limão"
-    {
-      const bebidaFavorita = "Suco de abacaxi"
-      console.log(frutaFavorita) <- Funciona
-      console.log(comidaFavorita) <- Funciona
-      console.log(bebidaFavorita) <- Funciona
-    }
-    console.log(frutaFavorita) <- Funciona
-    console.log(comidaFavorita) <- Funciona
-    console.log(bebidaFavorita) <- Erro
-  }
-  console.log(frutaFavorita) <- Funciona
-  console.log(comidaFavorita) <- Erro
-  console.log(bebidaFavorita) <- Erro
-}
-console.log(frutaFavorita) <- Erro (frutaFavorita foi criada dentro de um escopo)
-console.log(comidaFavorita) <- Erro
-console.log(bebidaFavorita) <- Erro
-
-Outra particularidade é que como um valor existe apenas dentro de seu 
-próprio escopo, isso significa que em um escopo fora de onde o valor é acessível,
-você pode utilizar o mesmo nome para um valor totalmente diferente:
-
-{
-  let helicoptero = "AAAAAHHHH"
-}
-{
-  let helicoptero = "toc toc toc toc toc toc toc"
-}
-
---------------------------------------------------------------------------------
-
-Observe o código abaixo contendo diversas variáveis ditrubuídas 
-entre diversos escopos para responder as questões no final:
+MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
-let l = console.log
+/* Questão 01 */
+export const trintaENove = 44 - 10 + 5
 
-{
-  let jonathan = ""; l(jonathan)
-  {
-    let erina = ""; l(erina)
-    let anasui = ""; l(anasui)
-  }
-  let smokey = ""; l(smokey)
-}
-{
-  let bruno = ""; l(bruno)
-  {
-    let speedwagon = ""; l(speedwagon)
-    {
-      let hermes = ""; l(hermes)
-      {
-        let jolyne = ""; l(jolyne)
-      }
-    }
-    let cesar = ""; l(cesar)
-    {
-      let bluford = ""; l(bluford)
-      {
-        let zeppeli = ""; l(zeppeli)
-      }
-      let mista = ""; l(mista)
-      {
-        let lisaLisa = ""; l(lisaLisa)
-        {
-          let giorno = ""; l(giorno)
-        }
-      }
-      let emporio = ""; l(emporio)
-    }
-    let joseph = ""; l(joseph)
-  }
-  let wham = ""; l(wham)
-  {
-    let kars = ""; l(kars)
-    {
-      let polnareff = ""; l(polnareff)
-      {
-        let diegoBrando = ""; l(diegoBrando)
-      }
-    }
-    let narancia = ""; l(narancia)
-  }
-  let iggy = ""; l(iggy)
-}
-{
-  let jotaro = ""; l(jotaro)
-  {
-    let koichi = ""; l(koichi)
-    {
-      let josuke = ""; l(josuke)
-    }
-    let kira = ""; l(kira)
-    {
-      let kakyoin = ""; l(kakyoin)
-    }
-  }
-  let avdol = ""; l(avdol)
-}
+/* Questão 02 */
+export const centoESessentaEUm = (13 ** 2) - 8
 
-/*
-Agora responda as questões abaixo modificando o valor "undefined" para
-"true" (sem as áspas) se a resposta for verdadeira, e 
-"false" (também sem áspas) se a resposta for falsa. 
+/* Questão 03 */
+export const trintaECinco = 7 * 5
 
-Dica: Ignore o que vem depois do "=". Apenas coloquei para
-o código não ficar indicando que as variáveis não foram
-utilizadas.
+/* Questão 04 */
+export const centoEVinteESeis = (22 * 6) - (24 * 4)
 
-MÍNIMO DE RESPOSTAS NECESSÁRIAS: 4
-*/
+/* Questão 05 */
+export const oitentaEQuatro = (200 / 4) + 34
 
-/* Questão 01: avdol enxerga jotaro?*/
-export const resposta01 = undefined
+/* Questão 06 */
+export const sessentaEQuatro = 2 ** (2 ** 3)
 
-/* Questão 02: kira enxerga kakyoin?*/
-export const resposta02 = undefined
+/* Questão 07 */
+export const vinteETres = 18 ?? (33 ?? 7)
 
-/* Questão 03: wham enxerga polnareff?*/
-export const resposta03 = undefined
+/* Questão 08 */
+export const dezenove = 38 / 2
 
-/* Questão 04: emporio enxerga bruno?*/
-export const resposta04 = undefined
+/* Questão 09 */
+export const centoETrinta = (41 ?? 3) ?? (21 ?? 3)
 
-/* Questão 05: jolyne enxerga bruno?*/
-export const resposta05 = undefined
+/* Questão 10 */
+export const quinze = 30 / 3 + 5
 
-/* Questão 06: speedwagon enxerga koichi?*/
-export const resposta06 = undefined
+/* Questão 11 */
+export const quarentaETres = 86 ?? (12 ?? 5)
 
-/* Questão 07: kars enxerga joseph?*/
-export const resposta07 = undefined
+/* Questão 12 */
+export const trinta = 6 * 5
 
-/* Questão 08: hermes enxerga smokey?*/
-export const resposta08 = undefined
+/* Questão 13 */
+export const sessentaETres = (125 / 5) + 38
 
-/* Questão 09: lisaLisa enxerga giorno?*/
-export const resposta09 = undefined
+/* Questão 14 */
+export const vinteEDois = 11 * 2
 
-/* Questão 10: giorno enxerga mista?*/
-export const resposta10 = undefined
+/* Questão 15 */
+export const quarentaEOito = (2 ?? 3) ?? 6
+
+/* Questão 16 */
+export const trintaETres = 66 / 2
+
+/* Questão 17 */
+export const quarentaECinco = (3 ** 2) * 5
+
+/* Questão 18 */
+export const oitentaENove = (9 * 10) - (5 / 5)
+
+/* Questão 19 */
+export const quarentaESeis = 23 * (7 ** 5)
+
+/* Questão 20 */
+export const centoEOitentaEQuatro = 23 * (2 * 4)
