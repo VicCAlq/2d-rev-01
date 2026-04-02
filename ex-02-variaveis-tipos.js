@@ -37,7 +37,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita = "sleep deprived"
+export let musicaFavorita = "Alma"
 
 /* Questão 02 */
 export let objetoQualquer = [1,2,3]

@@ -88,10 +88,10 @@ export const trintaETres = 66 / 2
 export const quarentaECinco = (3 ** 2) * 5
 
 /* Questão 18 */
-export const oitentaENove = (9 ?? 10) ?? (5 ?? 5)
+export const oitentaENove = (9 * 10) - (5 / 5)
 
 /* Questão 19 */
-export const quarentaESeis = 23 ?? (7 ?? 5)
+export const quarentaESeis = 23 * (7 ** 5)
 
 /* Questão 20 */
-export const centoEOitentaEQuatro = 23 ?? (2 ?? 4)
+export const centoEOitentaEQuatro = 23 * (2 * 4)
