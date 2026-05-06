@@ -1,4 +1,4 @@
-Data de atualização: Dia 06/05/2026 às 11:05:42
+Data de atualização: Dia 06/05/2026 às 11:11:59
  
 
 | Aluno | Qtd. questões acertadas (de 32) | Nota total |
@@ -45,11 +45,10 @@ Data de atualização: Dia 06/05/2026 às 11:05:42
 | Pedro Carvalho (Pedro-Carvalho-Nave) | 78 | 100.00 |
 | Rianna Lavinia (Rianna-Lavinia-Nave) | 34 | 100.00 |
 | Samuel Assuncao (samuel-assuncao-nave) | 54 | 100.00 |
-| Samuel Lindoso (samuel-lindoso-nave) | 5 | 16.88 |
-| Sophia Goes (sophia-goes-nave) | 0 | 0.00 |
-| Thiago Barbosa (Thiago-Barbosa-Nave) | 0 | 0.00 |
-| Viktor Phorely Diaz (Viktor-PhorelyDiaz) | 0 | 0.00 |
-| Vinicyus Eduardo (vinicyuseduardo-alt) | 0 | 0.00 |
-| Waldemir ViegasAlt (waldemirviegas-alt) | 0 | 0.00 |
-| Wesley Eder (Wesley-Eder-Nave) | 0 | 0.00 |
-| Yasmin Rocha (yasmin-rocha-nave) | 0 | 0.00 |
+| Sophia Goes (sophia-goes-nave) | 38 | 100.00 |
+| Thiago Barbosa (Thiago-Barbosa-Nave) | 67 | 100.00 |
+| Viktor Phorely Diaz (Viktor-PhorelyDiaz) | 21 | 66.88 |
+| Vinicyus Eduardo (vinicyuseduardo-alt) | 54 | 100.00 |
+| Waldemir ViegasAlt (waldemirviegas-alt) | 42 | 100.00 |
+| Wesley Eder (Wesley-Eder-Nave) | 46 | 100.00 |
+| Yasmin Rocha (yasmin-rocha-nave) | 78 | 100.00 |
