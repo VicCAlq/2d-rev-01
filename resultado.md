@@ -1,4 +1,7 @@
-| Questão | Exercício | Entregue | Correto | Mensagem de erro |
+Data de atualização: Dia 06/05/2026 às 10:49:38
+ 
+
+| Questão | Exercício | Entregue | Correto | Mensagem de Erro |
 |---------|-----------|----------|---------|------------------|
 |  1 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
 |  2 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'function' |
