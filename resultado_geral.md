@@ -1,51 +1,55 @@
-| Aluno | Total de acertos | Nota total |
-|-------|------------------|------------|
-| Maria Helena | 18.400000 | 57.500000 |
-| Arthur Machado | 80.000000 | 100.000000 |
-| Kaylane Marinho | 46.200000 | 100.000000 |
-| Breno Costa | 77.600000 | 100.000000 |
-| Jailson Ferreira | 45.800000 | 100.000000 |
-| Arthur Amorim | 16.400000 | 51.250000 |
-| Gabriel Leal | 80.000000 | 100.000000 |
-| Davi Emmanuel | 50.200000 | 100.000000 |
-| Luanna Carla | 65.200000 | 100.000000 |
-| Vinicyus Eduardo | 0.000000 | 0.000000 |
-| Adriano Filipe | 56.200000 | 100.000000 |
-| Jennifer Marielle | 5.400000 | 16.875000 |
-| Clarice Vitoria | 76.800000 | 100.000000 |
-| Sophia Goes | 0.000000 | 0.000000 |
-| Wesley Eder | 0.000000 | 0.000000 |
-| Arthur Felipe | 29.800000 | 93.125000 |
-| Yasmin Rocha | 0.000000 | 0.000000 |
-| Bernardo Cavalcanti | 5.400000 | 16.875000 |
-| Bernardo Cavalcanti | 32.000000 | 100.000000 |
-| Heytor Eloy | 5.400000 | 16.875000 |
-| Matheus Guilherme | 58.800000 | 100.000000 |
-| Bianca Beatriz | 76.800000 | 100.000000 |
-| João Gomes | 58.800000 | 100.000000 |
-| Miguel Angelo | 65.200000 | 100.000000 |
-| Breno Cavalcanti | 5.400000 | 16.875000 |
-| Viktor Phorely Diaz | 0.000000 | 0.000000 |
-| David Luduvico | 76.600000 | 100.000000 |
-| Barbara Antão | 5.400000 | 16.875000 |
-| Arthur Amorim | 5.400000 | 16.875000 |
-| Caua Rafael | 5.400000 | 16.875000 |
-| Waldemir ViegasAlt | 0.000000 | 0.000000 |
-| Thiago Barbosa | 0.000000 | 0.000000 |
-| Samuel Lindoso | 5.400000 | 16.875000 |
-| Samuel Assuncao | 50.200000 | 100.000000 |
-| Rianna Lavinia | 18.400000 | 57.500000 |
-| Pedro Carvalho | 5.400000 | 16.875000 |
-| Michel Nascimento Nave | 5.400000 | 16.875000 |
-| Gabriel Cavalcanti | 37.800000 | 100.000000 |
-| Lívia Barros | 76.600000 | 100.000000 |
-| Brendha Priscilla | 56.600000 | 100.000000 |
-| Emilly Maciel | 60.000000 | 100.000000 |
-| Gabriel Cavalcanti | 5.400000 | 16.875000 |
-| Imael Isaque | 14.400000 | 45.000000 |
-| Caio Brandao | 5.400000 | 16.875000 |
-| André Ricardo | 5.400000 | 16.875000 |
-| Gabriel Tavares | 80.000000 | 100.000000 |
-| Gustavo Henrique | 80.000000 | 100.000000 |
-| Kaique Alex | 5.400000 | 16.875000 |
-| Caio BrandaoCbs | 5.400000 | 16.875000 |
+Data de atualização: Dia 06/05/2026 às 10:50:21
+ 
+
+| Aluno | Qtd. questões acertadas (de 32) | Nota total |
+|-------|---------------------------------|------------|
+| Adriano Filipe (adriano-filipe-nave) | 0 | 0.00 |
+| André Ricardo (andre-ricardo-nave) | 0 | 0.00 |
+| Arthur Amorim (ArthurAmorim67) | 0 | 0.00 |
+| Arthur Amorim (arthur-amorim-nave) | 0 | 0.00 |
+| Arthur Felipe (arthur-felipe-nave) | 0 | 0.00 |
+| Arthur Machado (arthur-machado-nave) | 0 | 0.00 |
+| Barbara Antão (barbara-antao-nave) | 0 | 0.00 |
+| Bernardo Cavalcanti (bernardoCavalcanti67) | 0 | 0.00 |
+| Bernardo Cavalcanti (bernardo-nascimento-nave) | 0 | 0.00 |
+| Bianca Beatriz (bianca-beatriz-nave) | 0 | 0.00 |
+| Brendha Priscilla (brendha-priscilla-nave) | 0 | 0.00 |
+| Breno Cavalcanti (Breno-Cavalcanti-Nave) | 0 | 0.00 |
+| Breno Costa (Breno-Costa-Nave) | 0 | 0.00 |
+| Caio BrandaoCbs (caiobrandao-cbs) | 0 | 0.00 |
+| Caio Brandao (caio-brandao-nave) | 0 | 0.00 |
+| Caua Rafael (caua-rafael-nave) | 0 | 0.00 |
+| Clarice Vitoria (clarice-vitoria-nave) | 0 | 0.00 |
+| David Luduvico (David-luduvico-nave) | 0 | 0.00 |
+| Davi Emmanuel (Davi1008) | 0 | 0.00 |
+| Eduardo Crisriano (eduardo-cristiano-nave) | 0 | 0.00 |
+| Emilly Maciel (emilly-maciel-nave26) | 0 | 0.00 |
+| Gabriel Cavalcanti (gabrielcavalcanti-16) | 0 | 0.00 |
+| Gabriel Cavalcanti (gabriel-cavalcanti-nave) | 0 | 0.00 |
+| Gabriel Leal (Gabriel-Leal-Nave) | 0 | 0.00 |
+| Gabriel Tavares (Gabriel-Tavares-NAVE) | 0 | 0.00 |
+| Gustavo Henrique (gustavo-henrique-NAVE) | 0 | 0.00 |
+| Heytor Eloy (heytor-eloy-nave) | 0 | 0.00 |
+| Imael Isaque (Imael-isaque-nave) | 0 | 0.00 |
+| Jailson Ferreira (Jailson-Ferreira-nave) | 0 | 0.00 |
+| Jennifer Marielle (jennifer-marielle-nave) | 0 | 0.00 |
+| João Gomes (joaogomes-ctrl) | 0 | 0.00 |
+| Kaique Alex (kaique-alex-nave) | 0 | 0.00 |
+| Kaylane Marinho (Kaylane-Marinho-nave) | 0 | 0.00 |
+| Lívia Barros (livia-barros-nave) | 0 | 0.00 |
+| Luanna Carla (Luanna-Carla-nave) | 0 | 0.00 |
+| Maria Helena (Maria-Helena-Nave) | 0 | 0.00 |
+| Matheus Guilherme (Matheus-Guilherme-nave) | 0 | 0.00 |
+| Michel Nascimento Nave (michelnascimento-nave) | 0 | 0.00 |
+| Miguel Angelo (miguel-angelo-nave) | 0 | 0.00 |
+| Pedro Carvalho (Pedro-Carvalho-Nave) | 0 | 0.00 |
+| Rianna Lavinia (Rianna-Lavinia-Nave) | 0 | 0.00 |
+| Samuel Assuncao (samuel-assuncao-nave) | 0 | 0.00 |
+| Samuel Lindoso (samuel-lindoso-nave) | 5 | 16.88 |
+| Sophia Goes (sophia-goes-nave) | 0 | 0.00 |
+| Thiago Barbosa (Thiago-Barbosa-Nave) | 0 | 0.00 |
+| Viktor Phorely Diaz (Viktor-PhorelyDiaz) | 0 | 0.00 |
+| Vinicyus Eduardo (vinicyuseduardo-alt) | 0 | 0.00 |
+| Waldemir ViegasAlt (waldemirviegas-alt) | 0 | 0.00 |
+| Wesley Eder (Wesley-Eder-Nave) | 0 | 0.00 |
+| Yasmin Rocha (yasmin-rocha-nave) | 0 | 0.00 |
