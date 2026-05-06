@@ -1,50 +1,50 @@
-Data de atualização: Dia 06/05/2026 às 10:50:21
+Data de atualização: Dia 06/05/2026 às 10:57:52
  
 
 | Aluno | Qtd. questões acertadas (de 32) | Nota total |
 |-------|---------------------------------|------------|
-| Adriano Filipe (adriano-filipe-nave) | 0 | 0.00 |
-| André Ricardo (andre-ricardo-nave) | 0 | 0.00 |
-| Arthur Amorim (ArthurAmorim67) | 0 | 0.00 |
-| Arthur Amorim (arthur-amorim-nave) | 0 | 0.00 |
-| Arthur Felipe (arthur-felipe-nave) | 0 | 0.00 |
-| Arthur Machado (arthur-machado-nave) | 0 | 0.00 |
-| Barbara Antão (barbara-antao-nave) | 0 | 0.00 |
-| Bernardo Cavalcanti (bernardoCavalcanti67) | 0 | 0.00 |
-| Bernardo Cavalcanti (bernardo-nascimento-nave) | 0 | 0.00 |
-| Bianca Beatriz (bianca-beatriz-nave) | 0 | 0.00 |
-| Brendha Priscilla (brendha-priscilla-nave) | 0 | 0.00 |
-| Breno Cavalcanti (Breno-Cavalcanti-Nave) | 0 | 0.00 |
-| Breno Costa (Breno-Costa-Nave) | 0 | 0.00 |
-| Caio BrandaoCbs (caiobrandao-cbs) | 0 | 0.00 |
-| Caio Brandao (caio-brandao-nave) | 0 | 0.00 |
-| Caua Rafael (caua-rafael-nave) | 0 | 0.00 |
-| Clarice Vitoria (clarice-vitoria-nave) | 0 | 0.00 |
-| David Luduvico (David-luduvico-nave) | 0 | 0.00 |
-| Davi Emmanuel (Davi1008) | 0 | 0.00 |
-| Eduardo Crisriano (eduardo-cristiano-nave) | 0 | 0.00 |
-| Emilly Maciel (emilly-maciel-nave26) | 0 | 0.00 |
-| Gabriel Cavalcanti (gabrielcavalcanti-16) | 0 | 0.00 |
-| Gabriel Cavalcanti (gabriel-cavalcanti-nave) | 0 | 0.00 |
-| Gabriel Leal (Gabriel-Leal-Nave) | 0 | 0.00 |
-| Gabriel Tavares (Gabriel-Tavares-NAVE) | 0 | 0.00 |
-| Gustavo Henrique (gustavo-henrique-NAVE) | 0 | 0.00 |
-| Heytor Eloy (heytor-eloy-nave) | 0 | 0.00 |
-| Imael Isaque (Imael-isaque-nave) | 0 | 0.00 |
-| Jailson Ferreira (Jailson-Ferreira-nave) | 0 | 0.00 |
-| Jennifer Marielle (jennifer-marielle-nave) | 0 | 0.00 |
-| João Gomes (joaogomes-ctrl) | 0 | 0.00 |
-| Kaique Alex (kaique-alex-nave) | 0 | 0.00 |
-| Kaylane Marinho (Kaylane-Marinho-nave) | 0 | 0.00 |
-| Lívia Barros (livia-barros-nave) | 0 | 0.00 |
-| Luanna Carla (Luanna-Carla-nave) | 0 | 0.00 |
-| Maria Helena (Maria-Helena-Nave) | 0 | 0.00 |
-| Matheus Guilherme (Matheus-Guilherme-nave) | 0 | 0.00 |
-| Michel Nascimento Nave (michelnascimento-nave) | 0 | 0.00 |
-| Miguel Angelo (miguel-angelo-nave) | 0 | 0.00 |
-| Pedro Carvalho (Pedro-Carvalho-Nave) | 0 | 0.00 |
-| Rianna Lavinia (Rianna-Lavinia-Nave) | 0 | 0.00 |
-| Samuel Assuncao (samuel-assuncao-nave) | 0 | 0.00 |
+| Adriano Filipe (adriano-filipe-nave) | 56 | 100.00 |
+| André Ricardo (andre-ricardo-nave) | 21 | 66.88 |
+| Arthur Amorim (ArthurAmorim67) | 21 | 66.88 |
+| Arthur Amorim (arthur-amorim-nave) | 30 | 93.75 |
+| Arthur Felipe (arthur-felipe-nave) | 43 | 100.00 |
+| Arthur Machado (arthur-machado-nave) | 80 | 100.00 |
+| Barbara Antão (barbara-antao-nave) | 21 | 66.88 |
+| Bernardo Cavalcanti (bernardoCavalcanti67) | 32 | 100.00 |
+| Bernardo Cavalcanti (bernardo-nascimento-nave) | 21 | 66.88 |
+| Bianca Beatriz (bianca-beatriz-nave) | 80 | 100.00 |
+| Brendha Priscilla (brendha-priscilla-nave) | 65 | 100.00 |
+| Breno Cavalcanti (Breno-Cavalcanti-Nave) | 21 | 66.88 |
+| Breno Costa (Breno-Costa-Nave) | 78 | 100.00 |
+| Caio BrandaoCbs (caiobrandao-cbs) | 21 | 66.88 |
+| Caio Brandao (caio-brandao-nave) | 21 | 66.88 |
+| Caua Rafael (caua-rafael-nave) | 21 | 66.88 |
+| Clarice Vitoria (clarice-vitoria-nave) | 80 | 100.00 |
+| David Luduvico (David-luduvico-nave) | 78 | 100.00 |
+| Davi Emmanuel (Davi1008) | 54 | 100.00 |
+| Eduardo Crisriano (eduardo-cristiano-nave) | 62 | 100.00 |
+| Emilly Maciel (emilly-maciel-nave26) | 60 | 100.00 |
+| Gabriel Cavalcanti (gabrielcavalcanti-16) | 21 | 66.88 |
+| Gabriel Cavalcanti (gabriel-cavalcanti-nave) | 47 | 100.00 |
+| Gabriel Leal (Gabriel-Leal-Nave) | 80 | 100.00 |
+| Gabriel Tavares (Gabriel-Tavares-NAVE) | 80 | 100.00 |
+| Gustavo Henrique (gustavo-henrique-NAVE) | 80 | 100.00 |
+| Heytor Eloy (heytor-eloy-nave) | 52 | 100.00 |
+| Imael Isaque (Imael-isaque-nave) | 59 | 100.00 |
+| Jailson Ferreira (Jailson-Ferreira-nave) | 59 | 100.00 |
+| Jennifer Marielle (jennifer-marielle-nave) | 21 | 66.88 |
+| João Gomes (joaogomes-ctrl) | 69 | 100.00 |
+| Kaique Alex (kaique-alex-nave) | 21 | 66.88 |
+| Kaylane Marinho (Kaylane-Marinho-nave) | 59 | 100.00 |
+| Lívia Barros (livia-barros-nave) | 78 | 100.00 |
+| Luanna Carla (Luanna-Carla-nave) | 78 | 100.00 |
+| Maria Helena (Maria-Helena-Nave) | 34 | 100.00 |
+| Matheus Guilherme (Matheus-Guilherme-nave) | 69 | 100.00 |
+| Michel Nascimento Nave (michelnascimento-nave) | 21 | 66.88 |
+| Miguel Angelo (miguel-angelo-nave) | 78 | 100.00 |
+| Pedro Carvalho (Pedro-Carvalho-Nave) | 78 | 100.00 |
+| Rianna Lavinia (Rianna-Lavinia-Nave) | 34 | 100.00 |
+| Samuel Assuncao (samuel-assuncao-nave) | 54 | 100.00 |
 | Samuel Lindoso (samuel-lindoso-nave) | 5 | 16.88 |
 | Sophia Goes (sophia-goes-nave) | 0 | 0.00 |
 | Thiago Barbosa (Thiago-Barbosa-Nave) | 0 | 0.00 |
